@@ -1,0 +1,6 @@
+framework module StrnPhotoBrowser {
+  umbrella header "StrnPhotoBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}

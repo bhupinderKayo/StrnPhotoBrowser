@@ -1,0 +1,16 @@
+PODS:
+  - StrnPhotoBrowser (0.1.0)
+
+DEPENDENCIES:
+  - StrnPhotoBrowser (from `../`)
+
+EXTERNAL SOURCES:
+  StrnPhotoBrowser:
+    :path: ../
+
+SPEC CHECKSUMS:
+  StrnPhotoBrowser: a41123dfb3ef8b7daba620bf2a60e1b814d0426d
+
+PODFILE CHECKSUM: 95a3b6a7abc2875198eff51b452d7fdcc1d8c78d
+
+COCOAPODS: 1.2.1

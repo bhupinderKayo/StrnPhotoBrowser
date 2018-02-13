@@ -1,0 +1,22 @@
+{
+  "name": "StrnPhotoBrowser",
+  "version": "0.1.0",
+  "summary": "A short description of StrnPhotoBrowser.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bhupinderKayo/StrnPhotoBrowser",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bhupinderKayo": "bhupinder.singh@kayosys.com"
+  },
+  "source": {
+    "git": "https://github.com/bhupinderKayo/StrnPhotoBrowser.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "StrnPhotoBrowser/Classes/**/*"
+}
