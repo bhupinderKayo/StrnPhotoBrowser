@@ -47,7 +47,7 @@ open class StrnPhotoBrowser: UIViewController {
     fileprivate var controlVisibilityTimer: Timer!
     
     // delegate
-    fileprivate let animator = SKAnimator()
+    fileprivate let animator = StrnAnimator()
     open weak var delegate: StrnPhotoBrowserDelegate?
     
     // photos
@@ -245,9 +245,9 @@ public extension StrnPhotoBrowser {
         }
         closeButton.setImage(image, for: UIControlState())
         
-        if let size = size {
+        //if let size = size {
             //            closeButton.setFrameSize(size)
-        }
+        //}
     }
     
     func updateDeleteButton(_ image: UIImage, size: CGSize? = nil) {
