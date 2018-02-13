@@ -1,0 +1,6 @@
+use_frameworks!
+target 'StrnPhotoBrowser_Tests' do
+  pod 'StrnPhotoBrowser', :path => '../'
+  
+  
+end
